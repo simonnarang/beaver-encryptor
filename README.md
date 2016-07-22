@@ -2,4 +2,4 @@
 # Beaver-Encryptor
 Piece of Code That Takes an Inputted String and Outputs the New Beaver Encrypted Value of That String  
   
-*Beaver is a Method of Encrypting Any Given String by Ccrambling the Letters in That String in a Certain Way*  
+*Beaver is a Method of Encrypting Any Given String by Scrambling the Letters in That String in a Certain Way*  
